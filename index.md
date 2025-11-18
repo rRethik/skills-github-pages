@@ -1,4 +1,4 @@
 ---
-title: 'Sup dudee
+title: Welcome to my blog
 ---
 Helloooo!!!!
